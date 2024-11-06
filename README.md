@@ -101,6 +101,6 @@ I'm passionate about technology, and my journey began in an unplanned way but qu
   <a href="https://linkedin.com/in/renandpaula" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img alt="img-komarev" src="https://steamuserimages-a.akamaihd.net/ugc/950714109397804223/31C55FC747EFA6EA80A84712FD0518761A52DE86/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="300" height="200" /> 
+![tools](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanxD&theme=midnight-purple&hide_border=false)  <img alt="img-komarev" src="https://steamuserimages-a.akamaihd.net/ugc/950714109397804223/31C55FC747EFA6EA80A84712FD0518761A52DE86/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="300" height="246" style="border: solid 1px #FFFFFF; border-radius: 5px;"/>
 
 ![](https://komarev.com/ghpvc/?username=RenanxD&color=006bed)
