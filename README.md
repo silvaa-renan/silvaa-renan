@@ -89,7 +89,7 @@ I'm passionate about technology, and my journey began in an unplanned way but qu
     &nbsp;&nbsp;&nbsp;
 </div>
 
-##
+## 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀 𝘁𝗼 𝗴𝗶𝘁𝗵𝘂𝗯
 <img alt="stats-github" src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=RenanxD&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />      <img alt="stats-github" src="https://github-readme-streak-stats.herokuapp.com/?user=RenanxD&theme=midnight-purple&hide_border=false"  width="400px" />
 
 ## 𝗦𝗼𝗰𝗶𝗮𝗹 𝗺𝗲𝗱𝗶𝗮
@@ -99,6 +99,9 @@ I'm passionate about technology, and my journey began in an unplanned way but qu
   <a href="mailto:renandepauladasilva@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://linkedin.com/in/renandpaula" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+## 𝗠𝗼𝘀𝘁 𝘂𝘀𝗲𝗱 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
+![tools](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanxD&theme=midnight-purple&hide_border=false)
 
 ## 
 
