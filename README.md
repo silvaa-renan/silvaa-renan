@@ -41,8 +41,11 @@ I'm passionate about technology, and my journey began in an unplanned way but qu
 
 <div style="display: inline-block;"><br>
     <img align="center" alt="Renan-Laravel" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
+    &nbsp;&nbsp;&nbsp;
     <img align="center" alt="Renan-Symfony" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg">
+    &nbsp;&nbsp;&nbsp;
     <img align="center" alt="Renan-Tailwind" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+    &nbsp;&nbsp;&nbsp;
     <img align="center" alt="Renan-Magento" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/magento/magento-original.svg">
 </div>
 
@@ -50,10 +53,15 @@ I'm passionate about technology, and my journey began in an unplanned way but qu
 
 <div style="display: inline-block;"><br>
     <img align="center" alt="Renan-MySQL" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+    &nbsp;&nbsp;&nbsp;
     <img align="center" alt="Renan-PostgreSQL" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
+    &nbsp;&nbsp;&nbsp;
     <img align="center" alt="Renan-MariaDB" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg">
+    &nbsp;&nbsp;&nbsp;
     <img align="center" alt="Renan-SQLite" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
+    &nbsp;&nbsp;&nbsp;
     <img align="center" alt="Renan-Oracle" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
+    &nbsp;&nbsp;&nbsp;
     <img align="center" alt="Renan-Redis" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg">
 </div>
 
@@ -61,17 +69,24 @@ I'm passionate about technology, and my journey began in an unplanned way but qu
 
 <div style="display: inline-block;"><br>
     <img align="center" alt="Renan-SOAP" height="35" width="35" src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png">
+    &nbsp;&nbsp;&nbsp;
     <img align="center" alt="Renan-REST" height="35" width="35" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png">
+    &nbsp;&nbsp;&nbsp;
     <img align="center" alt="Renan-GraphQL" height="35" width="35" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png">
+    &nbsp;&nbsp;&nbsp;
 </div>
 
 ## 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹 𝗮𝗻𝗱 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗼𝗻 𝗧𝗼𝗼𝗹𝘀:
 
 <div style="display: inline-block;"><br>
     <img align="center" alt="Renan-Git" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+    &nbsp;&nbsp;&nbsp;
     <img align="center" alt="Renan-Bitbucket" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg">
+    &nbsp;&nbsp;&nbsp;
     <img align="center" alt="Renan-GitHub" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+    &nbsp;&nbsp;&nbsp;
     <img align="center" alt="Renan-Jira" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
+    &nbsp;&nbsp;&nbsp;
 </div>
 
 ##
