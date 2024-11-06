@@ -89,7 +89,8 @@ I'm passionate about technology, and my journey began in an unplanned way but qu
     &nbsp;&nbsp;&nbsp;
 </div>
 
-##
+## 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀 𝘁𝗼 𝗴𝗶𝘁𝗵𝘂𝗯
+
 <img alt="stats-github" src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=RenanxD&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />      <img alt="stats-github" src="https://github-readme-streak-stats.herokuapp.com/?user=RenanxD&theme=midnight-purple&hide_border=false"  width="400px" />
 
 ## 𝗦𝗼𝗰𝗶𝗮𝗹 𝗺𝗲𝗱𝗶𝗮
@@ -101,7 +102,8 @@ I'm passionate about technology, and my journey began in an unplanned way but qu
   <a href="https://linkedin.com/in/renandpaula" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
+## 𝗠𝗼𝘀𝘁 𝘂𝘀𝗲𝗱 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
+
 ![tools](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanxD&theme=midnight-purple&hide_border=false)  
 
 <img alt="img-komarev" src="https://steamuserimages-a.akamaihd.net/ugc/950714109397804223/31C55FC747EFA6EA80A84712FD0518761A52DE86/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="300" height="246" style="border: solid 1px #FFFFFF; border-radius: 5px;"/>
