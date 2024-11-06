@@ -42,7 +42,7 @@ I'm passionate about technology, and my journey began in an unplanned way but qu
 <div style="display: inline-block;"><br>
     <img align="center" alt="Renan-Laravel" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
     &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Renan-Symfony" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg">
+    <img align="center" alt="Renan-Symfony" height="35" width="35" src="https://static-00.iconduck.com/assets.00/file-type-symfony-icon-1024x1024-rssfk6cn.png">
     &nbsp;&nbsp;&nbsp;
     <img align="center" alt="Renan-Tailwind" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
     &nbsp;&nbsp;&nbsp;
@@ -83,7 +83,7 @@ I'm passionate about technology, and my journey began in an unplanned way but qu
     &nbsp;&nbsp;&nbsp;
     <img align="center" alt="Renan-Bitbucket" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg">
     &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Renan-GitHub" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+    <img align="center" alt="Renan-GitHub" height="35" width="35" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png">
     &nbsp;&nbsp;&nbsp;
     <img align="center" alt="Renan-Jira" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
     &nbsp;&nbsp;&nbsp;
