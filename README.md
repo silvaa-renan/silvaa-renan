@@ -90,8 +90,7 @@ I'm passionate about technology, and my journey began in an unplanned way but qu
 </div>
 
 ##
-<img alt="stats-github" src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=RenanxD&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />
-<img alt="stats-github" src="https://github-readme-streak-stats.herokuapp.com/?user=RenanxD&theme=midnight-purple&hide_border=false"  width="400px" />
+<img alt="stats-github" src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=RenanxD&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />      <img alt="stats-github" src="https://github-readme-streak-stats.herokuapp.com/?user=RenanxD&theme=midnight-purple&hide_border=false"  width="400px" />
 
 ## 𝗦𝗼𝗰𝗶𝗮𝗹 𝗺𝗲𝗱𝗶𝗮
 
