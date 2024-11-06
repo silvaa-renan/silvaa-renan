@@ -100,4 +100,6 @@ I'm passionate about technology, and my journey began in an unplanned way but qu
   <a href="https://linkedin.com/in/renandpaula" target="_blank"><img alt="linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+## 
+
 ![](https://komarev.com/ghpvc/?username=RenanxD&color=006bed)
