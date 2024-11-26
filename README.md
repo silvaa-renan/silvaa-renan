@@ -1,4 +1,4 @@
-## 𝗛𝗶, 𝗜'𝗺 𝗥𝗲𝗻𝗮𝗻.
+![image](https://github.com/user-attachments/assets/c2e1dcf5-4b38-4ee6-8717-2d536b0de70d)## 𝗛𝗶, 𝗜'𝗺 𝗥𝗲𝗻𝗮𝗻.
 
 ![IMAGE](https://github.com/user-attachments/assets/c1ee63a4-3d53-4c66-83a4-52bdedb853c0)
 
@@ -42,7 +42,7 @@ I'm passionate about technology, and my journey began in an unplanned way but qu
 <div style="display: inline-block;"><br>
     <img align="center" alt="Renan-Laravel" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
     &nbsp;&nbsp;&nbsp;
-    <img align="center" alt="Renan-Symfony" height="35" width="35" src="https://cdn.freebiesupply.com/logos/large/2x/symfony-logo-black-and-white.png">
+    <img align="center" alt="Renan-Symfony" height="35" width="35" src="https://img.icons8.com/?size=512&id=78295&format=png">
     &nbsp;&nbsp;&nbsp;
     <img align="center" alt="Renan-Tailwind" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
     &nbsp;&nbsp;&nbsp;
