@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c2e1dcf5-4b38-4ee6-8717-2d536b0de70d)## 𝗛𝗶, 𝗜'𝗺 𝗥𝗲𝗻𝗮𝗻.
+## 𝗛𝗶, 𝗜'𝗺 𝗥𝗲𝗻𝗮𝗻.
 
 ![IMAGE](https://github.com/user-attachments/assets/c1ee63a4-3d53-4c66-83a4-52bdedb853c0)
 
