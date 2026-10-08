@@ -91,7 +91,7 @@ I'm passionate about technology, and my journey began in an unplanned way but qu
 
 ## 𝗖𝗼𝗻𝘁𝗿𝗶𝗯𝘂𝘁𝗶𝗼𝗻𝘀 𝘁𝗼 𝗴𝗶𝘁𝗵𝘂𝗯
 
-<img alt="stats-github" src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=silvaa-renan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />
+<img alt="stats-github" src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=silvaa-renan&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"  width="365px" />
 
 ## 𝗦𝗼𝗰𝗶𝗮𝗹 𝗺𝗲𝗱𝗶𝗮
 
